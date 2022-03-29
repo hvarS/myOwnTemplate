@@ -10,10 +10,10 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: /#contact
+    link: srivastavahv@gmail.com
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/not_S0_harsh
   - icon: graduation-cap
     icon_pack: fas
     link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
@@ -22,9 +22,6 @@ social:
     link: https://github.com/hvarS
     display:
       header: true
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/
   - display:
       header: false
     link: https://www.linkedin.com/harshvardhansrivastava
@@ -39,9 +36,10 @@ email: ""
 superuser: true
 highlight_name: true
 ---
+I am a [](https://www.surrey.ac.uk/people/dr-diptesh-kanojia)Backend Server Technology developer at [Oracle Cloud Applications](https://www.oracle.com/in/applications/). At Oracle , I work at developing efficient and robust solutions and automations for data pipeline for HCM and CX modules .
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Apart from my job , I am frequently involved in research activities and I usually  address problems that intersect the areas of Natural Language Processing (NLP) and Machine or Deep Learning (ML/DL) which have impact for Social or Human Behavior Systems. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I am currently involved in research works revolving around about graphical applications in computational conversational and social systems. I am currently involved in research activities with Prof. [Aruna Tiwari](https://iiti.ac.in/people/~artiwari/) on graphical ML techniques and Prof. [Tanmay Basu](https://sites.google.com/view/tanmaybasu/) on knowledge discovery in social setting. In the past , I had the pleasure to work with Prof. [Parimal Parag](https://ece.iisc.ac.in/~parimal/) and Prof. [Vikram Srinivasan](https://eecs.iisc.ac.in/people/vikram-srinivasan/) on understanding and characterising latency versus redundancy trade-offs in distributed systems.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
