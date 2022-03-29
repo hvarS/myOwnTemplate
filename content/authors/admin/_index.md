@@ -24,14 +24,27 @@ social:
       header: true
   - display:
       header: false
-    link: https://www.linkedin.com/harshvardhansrivastava
+    link: https://www.linkedin.com/in/harshvardhansrivastava
     icon_pack: fab
     icon: linkedin
+  - display:
+      header: false
+    icon_pack: ai
+    icon: orcid
+    link: https://orcid.org/ 0000-0002-2909-9898
+  - display:
+      header: false
+    icon_pack: ai
+    icon: semantic-scholar
+    link: https://www.semanticscholar.org/author/2025049098
 organizations:
   - name: "Oracle "
     url: https://www.oracle.com/in/index.html
 education:
-  courses: []
+  courses:
+    - course: B.Tech in EE with Minors in CSE
+      institution: "Indian Institute of Technology , Kharagpur "
+      year: 2019
 email: ""
 superuser: true
 highlight_name: true
