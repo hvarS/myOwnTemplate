@@ -1,7 +1,7 @@
 ---
 title: Harshvardhan Srivastava
 role: "Member of Technical Staff "
-avatar_filename: dsc_0032.jpg
+avatar_filename: avatar.jpg
 bio: NLP || Graphical ML || Computational Linguistics
 interests:
   - Artificial Intelligence
