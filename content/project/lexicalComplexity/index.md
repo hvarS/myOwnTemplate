@@ -9,7 +9,7 @@ tags:
 - Lexical Semantics 
 - NLP
 categories: [NLP]
-date: 2022-03-30T12:54:33+05:30
+date: 2021-05-30T12:54:33+05:30
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""

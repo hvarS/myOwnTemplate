@@ -6,7 +6,7 @@ summary: "In India states earn revenue through own taxes, central taxes, non-tax
 authors: []
 tags: [ML]
 categories: []
-date: 2022-03-30T17:16:27+05:30
+date: 2021-02-30T17:16:27+05:30
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""

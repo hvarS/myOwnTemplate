@@ -1,12 +1,12 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Agv"
-summary: ""
+title: "FIFA 2022 Predictor"
+summary: "A fun side project to predict the standings and outcome of the qualifying teams for FIFA 2022 to be held at Qatar."
 authors: []
-tags: []
+tags: [ML]
 categories: []
-date: 2022-03-30T15:39:17+05:30
+date: 2021-03-30T19:47:55+05:30
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -27,7 +27,7 @@ image:
 #   icon_pack: fab
 #   icon: twitter
 
-url_code: ""
+url_code: "https://github.com/hvarS/fifa22predictor"
 url_pdf: ""
 url_slides: ""
 url_video: ""

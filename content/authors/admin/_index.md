@@ -49,7 +49,7 @@ email: ""
 superuser: true
 highlight_name: true
 ---
-I am a [](https://www.surrey.ac.uk/people/dr-diptesh-kanojia)Backend Server Technology developer at [Oracle Cloud Applications](https://www.oracle.com/in/applications/). At Oracle , I work at developing efficient and robust solutions and automations for data pipeline for HCM and CX modules .
+I am a Backend Server Technology developer at [Oracle Cloud Applications](https://www.oracle.com/in/applications/). At Oracle , I work at developing efficient and robust solutions and automations for data pipeline in HCM and CX modules .
 
 Apart from my job , I am frequently involved in research activities and I usually  address problems that intersect the areas of Natural Language Processing (NLP) and Machine or Deep Learning (ML/DL) which have impact for Social or Human Behavior Systems. 
 
