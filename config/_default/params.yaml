@@ -18,13 +18,13 @@ marketing:
     site_type: Person
     local_business_type: ''
     org_name: ''
-    description: 'A highly-customizable Hugo academic resume theme powered by Wowchemy website builder.'
-    twitter: 'wowchemy'
+    description: 'Portfolio Website for Harshvardhan Srivastava'
+    twitter: 'not_S0_harsh'
   analytics:
     google_analytics: ''
     baidu_tongji: ''
   verification:
-    google: ''
+    google: 'googlec905ec9b706be89a.html'
     baidu: ''
 
 # Site header
@@ -70,7 +70,7 @@ features:
   privacy_pack:
     enable: false
   repository:
-    url: 'https://github.com/<username>/<repository>'
+    url: 'https://github.com/hvarS/myWebsite'
     content_dir: content
     branch: master
   avatar:
