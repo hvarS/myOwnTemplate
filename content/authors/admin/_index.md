@@ -44,7 +44,7 @@ education:
   courses:
     - course: B.Tech in EE with Minors in CSE
       institution: "Indian Institute of Technology , Kharagpur "
-      year: 2019
+      year: 2021
 email: ""
 superuser: true
 highlight_name: true
