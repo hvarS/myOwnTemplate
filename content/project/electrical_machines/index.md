@@ -8,7 +8,7 @@ into distribution system due to this increasing usage of nonlinear loads and pow
 like electric arc welders, switching power supplies and speed drives. Harmonic currents lead to
 numerous issues in distribution systems like higher power losses, electronic equipment operational
 failures, voltage distortion."
-authors: []
+authors: [Harshvardhan Srivastava, Shailesh Mishra, Shreyase Rangmani, Param Budhraja , Sanyog Pohare]
 tags: [Power Electronics]
 categories: []
 date: 2021-04-30T15:39:30+05:30

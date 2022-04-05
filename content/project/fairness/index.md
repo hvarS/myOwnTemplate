@@ -12,7 +12,7 @@ ness graph, and learn a unified Pairwise Fair Representation
 (PFR) of the data that captures both data-driven similar-
 ity between individuals and the pairwise side-information in
 fairness graph"
-authors: []
+authors: [Harshvardhan Srivastava, Sanket Kumar Singh]
 tags: [ML]
 categories: []
 date: 2022-03-30T21:24:56+05:30

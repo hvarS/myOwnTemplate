@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "FIFA 2022 Predictor"
-summary: "A fun side project to predict the standings and outcome of the qualifying teams for FIFA 2022 to be held at Qatar."
+summary: "A fun side project to predict the standings and outcome of the qualifying teams for FIFA 2022 to be held at Qatar. The dataset takes into account the last 50 years of data and ranking informations , with special focus on recent performance of the teams. Also , many teams exist whose matchup was not seen at the highest stage , so there performance with mutually opponent team was taken into consideration."
 authors: []
 tags: [ML]
 categories: []

@@ -33,6 +33,8 @@ content:
     tag: ML
   - name: Power Systems
     tag: Power Electronics
+  - name: Others
+    tag: Others
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
