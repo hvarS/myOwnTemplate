@@ -1,5 +1,5 @@
 ---
-title: Harshvardhan Srivastava
+title: 
 role: "Member of Technical Staff "
 avatar_filename: avatar.jpg
 bio: NLP || Graphical ML || Computational Linguistics
