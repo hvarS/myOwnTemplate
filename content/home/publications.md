@@ -7,9 +7,9 @@ widget: pages
 headless: true
 
 # Order that this section appears on the page.
-weight: 90
+weight: 20
 
-title: Recent Publications
+title: Publications
 subtitle: ''
 
 content:
@@ -33,7 +33,7 @@ content:
 design:
   # Choose a view for the listings:
   view: card
-  columns: '1'
+  columns: '2'
 ---
 
 {{% callout note %}}
