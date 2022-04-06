@@ -1,9 +1,9 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Zero Shot Crosslingual Eye-Tracking Data Prediction using Multilingual Transformer Models"
+title: "Misogynistic Meme Detection using Early Fusion Model with Graph Network"
 authors: [Harshvardhan Srivastava]
-date: 2022-03-26
+date: 2022-04-02
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -16,13 +16,13 @@ publishDate: 2022-04-06T16:49:10+05:30
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: "To Appear at *Proceedings of the 1st Joint Workshop on Financial Narrative Processing and MultiLing Financial Summarisation*"
-publication_short: "CMCL@ACL 2022"
+publication: "To Appear at *Proceedings of the 16th International Workshop on Semantic Evaluation (SemEval-2022)*"
+publication_short: "SemEval@NAACL 2022"
 
-abstract: "Eye tracking data during reading is a useful source of information to understand the cognitive processes that take place during language comprehension processes. Different languages account for different brain triggers , however there seems to be some uniform indicators. In this paper, we describe our submission to the CMCL 2022 shared task on predicting human reading patterns for multi-lingual dataset. Our model uses text representations from transformers and some hand engineered features with a regression layer on top to predict statistical measures of mean and standard deviation for 2 main eye-tracking features. We train an end to end model to extract meaningful information from different languages and test our model on two seperate datasets. We compare different transformer models and show ablation studies affecting model performance. Our final submission ranked 4th place for SubTask-1 and 1st place for SubTask-2 for the shared task. "
+abstract: "In recent years , there has been an upsurge in a new form of entertainment medium called memes. These memes although seemingly innocuous have transcended onto the boundary of online harassment against women and created an unwanted bias against them . To help alleviate this problem , we propose an early fusion model for prediction and identification of misogynistic memes and its type in this paper for which we participated in SemEval-2022 Task 5 . The model receives as input meme image with its text transcription with a target vector. Given that a key challenge with this task is the combination of different modalities to predict misogyny, our model relies on pretrained contextual representations from different state-of-the-art transformer-based language models and pretrained image pretrained models to get an effective image representation. Our model achieved competitive results on both SubTask-A and SubTask-B with the other competition teams and significantly outperforms the baselines. "
 
 # Summary. An optional shortened abstract.
-summary: "Our model uses text representations from transformers and some hand engineered features with a regression layer on top to predict statistical measures of mean and standard deviation for 2 main eye-tracking features."
+summary: "We propose an early fusion model for prediction and identification of misogynistic memes and its type in this paper for which we participated in SemEval-2022 Task 5 "
 
 tags: []
 categories: []
@@ -37,9 +37,9 @@ featured: false
 #   icon: twitter
 
 url_pdf: 
-url_code: https://github.com/hvarS/CMCL-2022
+url_code: https://github.com/hvarS/MAMI-Challenge
 url_dataset: 
-url_preprint: https://arxiv.org/abs/2203.16474
+url_preprint: https://arxiv.org/abs/2203.16781
 url_poster:
 url_project:
 url_slides:

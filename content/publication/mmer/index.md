@@ -1,9 +1,9 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Zero Shot Crosslingual Eye-Tracking Data Prediction using Multilingual Transformer Models"
-authors: [Harshvardhan Srivastava]
-date: 2022-03-26
+title : "MMER: Multimodal Multi-task learning for Emotion Recognition in Spoken Utterances"
+authors : [Harshvardhan Srivastava,Sreyan Ghosh,S. Umesh]
+date : 2022-04-04
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -16,13 +16,13 @@ publishDate: 2022-04-06T16:49:10+05:30
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: "To Appear at *Proceedings of the 1st Joint Workshop on Financial Narrative Processing and MultiLing Financial Summarisation*"
-publication_short: "CMCL@ACL 2022"
+publication: "INTERSPEECH 2022"
+publication_short: "Submitted to InterSpeech 2022"
 
-abstract: "Eye tracking data during reading is a useful source of information to understand the cognitive processes that take place during language comprehension processes. Different languages account for different brain triggers , however there seems to be some uniform indicators. In this paper, we describe our submission to the CMCL 2022 shared task on predicting human reading patterns for multi-lingual dataset. Our model uses text representations from transformers and some hand engineered features with a regression layer on top to predict statistical measures of mean and standard deviation for 2 main eye-tracking features. We train an end to end model to extract meaningful information from different languages and test our model on two seperate datasets. We compare different transformer models and show ablation studies affecting model performance. Our final submission ranked 4th place for SubTask-1 and 1st place for SubTask-2 for the shared task. "
+abstract: "Emotion Recognition (ER) aims to classify human utterances into different emotion categories. Based on early-fusion and self-attention-based multimodal interaction between text and acoustic modalities, in this paper, we propose a multimodal multitask learning approach for ER from individual utterances in isolation. Experiments on the IEMOCAP benchmark show that our proposed model performs better than our re-implementation of state-of-the-art and achieves better performance than all other unimodal and multimodal approaches in literature. In addition, strong baselines and ablation studies prove the effectiveness of our proposed approach. We make all our codes publicly available on GitHub."
 
 # Summary. An optional shortened abstract.
-summary: "Our model uses text representations from transformers and some hand engineered features with a regression layer on top to predict statistical measures of mean and standard deviation for 2 main eye-tracking features."
+summary: "We propose a multimodal multitask learning approach for ER from individual utterances in isolation. Experiments on the IEMOCAP benchmark show that our proposed model performs better than our re-implementation of state-of-the-art and achieves better performance than all other unimodal and multimodal approaches in literature."
 
 tags: []
 categories: []
@@ -37,9 +37,9 @@ featured: false
 #   icon: twitter
 
 url_pdf: 
-url_code: https://github.com/hvarS/CMCL-2022
+url_code: https://github.com/Sreyan88/MMER
 url_dataset: 
-url_preprint: https://arxiv.org/abs/2203.16474
+url_preprint: https://arxiv.org/abs/2203.16794
 url_poster:
 url_project:
 url_slides:
