@@ -19,6 +19,8 @@ content:
   count: 0
   # Filter on criteria
   filters:
+    folders:
+      - publication
     author: ""
     category: ""
     publication_type: ""
@@ -32,5 +34,5 @@ design:
   #   2 = Compact
   #   3 = Card
   #   4 = Citation (publication only)
-  view: 3
+  view: 2
 ---
