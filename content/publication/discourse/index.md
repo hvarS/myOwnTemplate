@@ -37,7 +37,7 @@ featured: false
 #   icon: twitter
 
 url_pdf: 
-url_code: https://github.com/Sreyan88/DiscLSTM
+url_code: https://github.com/hvarS/DiscLSTM
 url_dataset: 
 url_preprint: https://arxiv.org/abs/2203.16799
 url_poster:

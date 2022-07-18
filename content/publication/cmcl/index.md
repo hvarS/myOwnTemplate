@@ -40,11 +40,11 @@ url_pdf:
 url_code: https://github.com/hvarS/CMCL-2022
 url_dataset: 
 url_preprint: https://arxiv.org/abs/2203.16474
-url_poster:
+url_poster: https://drive.google.com/file/d/1--_8qS1St2Z2IIME92UmbqNVq9cmwnhI/view?usp=sharing
 url_project:
-url_slides:
+url_slides: https://drive.google.com/file/d/1qvnng0QQaF891ATfLsLlBhgy6PyqxDOv/view?usp=sharing
 url_source:
-url_video:
+url_video: https://drive.google.com/file/d/15g-KtHepiAvLWwwJQpC7dw6jS-WmfigM/view?usp=sharing
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
